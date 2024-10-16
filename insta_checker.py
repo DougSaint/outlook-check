@@ -3,7 +3,7 @@ import random
 import time
 
 def check_insta(email):
-    max_tentativas = 3
+    max_tentativas = 5
     tentativa_atual = 0
 
     while tentativa_atual < max_tentativas:

@@ -40,7 +40,7 @@ header = Panel.fit(
 )
 console.print(header)
 
-linha_inicial = 1
+linha_inicial = 200
 num_threads = 8
 
 # Contadores
